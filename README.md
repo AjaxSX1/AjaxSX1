@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey Developers 👋:
 👨‍💻 I’m currently a student at Mohammed VI high school of excellence<br>🧠 I’m currently learning Business Management & Cybersecurity<br>🤝 I’m looking to collaborate with other developers to build fun stuff <br>📫 How to reach me xdev.business@gmail.com
 
 
